@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><TBaoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TBaoThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <TBaoThue id="_NODE_TO_SIGN">
+      <TTinChung>
+         <CQT>
+            <maCQT>00000</maCQT>
+            <tenCQT>Tổng Cục Thuế</tenCQT>
+            <DVu>
+               <maDVu>IHTKK</maDVu>
+               <tenDVu>IHTKK</tenDVu>
+               <pbanDVu>3.1.0</pbanDVu>
+            </DVu>
+         </CQT>
+         <NNhanTBaoThue>
+            <maNNhan>0312066888</maNNhan>
+            <tenNNhan>Công Ty TNHH Xuất Nhập Khẩu Sản Xuất Thương Mại Văn Phòng Phẩm Nguyễn Lê</tenNNhan>
+            <diaChiNNhan>B14/18 Tổ 25, ấp 2</diaChiNNhan>
+         </NNhanTBaoThue>
+         <TTinTBaoThue>
+            <maTBao>450</maTBao>
+            <tenTBao>Tiếp nhận hồ sơ khai thuế điện tử</tenTBao>
+            <pbanTBao>2.3.0</pbanTBao>
+            <soTBao>10120180093469369</soTBao>
+            <ngayTBao>2018-04-28</ngayTBao>
+         </TTinTBaoThue>
+      </TTinChung>
+      <NDungTBao>
+         <trangThai>Y</trangThai>
+         <ngayHoSo>2018-04-28T16:39:38.800+07:00</ngayHoSo>
+         <HoSoThue>
+            <CTietHoSoThue id="ID_1">
+               <tokhai-phuluc>BC26/AC - Báo cáo tình hình sử dụng hóa đơn</tokhai-phuluc>
+               <loaiToKhai>Chính thức</loaiToKhai>
+               <kyTinhThue>Q1/2018</kyTinhThue>
+               <lanNop>1</lanNop>
+               <maNoiNop>70139</maNoiNop>
+               <tenNoiNop>Chi cục Thuế Huyện Bình Chánh</tenNoiNop>
+               <lyDo />
+            </CTietHoSoThue>
+         </HoSoThue>
+         <maGiaoDichDTu>10620180235660965</maGiaoDichDTu>
+         <duongDan>http://kekhaithue.gdt.gov.vn</duongDan>
+         <hotline xsi:nil="true" />
+      </NDungTBao>
+   </TBaoThue>	
+</TBaoThueDTu>
